@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <center>
-<img src="https://treelar.wtf/logo/logo2020.svg" \>
+<img src="https://treelar.cf/logo/logo2020.svg" \>
 </center>
 
 <!--
