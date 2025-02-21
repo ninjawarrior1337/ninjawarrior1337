@@ -1,5 +1,5 @@
 <center>
-<img src="/banner.png" />
+<img src="https://fs.treelar.xyz/identity/Banner2024.png" />
 </center>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ninjawarrior1337&theme=dark"/>
